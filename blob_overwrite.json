@@ -68,7 +68,7 @@
   {
     "id": "oozle_tank_large_item",
     "type": "CONTAINER",
-    "name": { "str": "oozle tank", "str_pl": "oozle tanks" },
+    "name": { "str": "oozing tank", "str_pl": "oozing tanks" },
     "copy-from": "oozle_tank_item",
     "volume": "80 L",
     "contains": "80 L"

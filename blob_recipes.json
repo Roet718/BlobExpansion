@@ -25,6 +25,72 @@
   "components": [ [ [ "frostie", 1 ] ], [ [ "water", 200 ] ] ]
   },
   {
+    "result": "gloople_tank_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "gloople", 1 ] ] ]
+  },
+  {
+    "result": "gloople_tank_large_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "gloople", 1 ] ] ]
+  },
+  {
+    "result": "gray_tank_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "gray", 1 ] ] ]
+  },
+  {
+    "result": "gray_tank_large_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "gray", 1 ] ] ]
+  },
+  {
+    "result": "oozle_tank_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "oozle", 1 ] ] ]
+  },
+  {
+    "result": "oozle_tank_large_item",
+    "type": "recipe",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "cooking",
+    "difficulty": 6,
+    "time": "4 h 10 m",
+    "autolearn": true,
+    "components": [ [ [ "oozle", 1 ] ] ]
+  },
+  {
     "result": "bfeed_cargo_item",
     "type": "recipe",
     "category": "CC_OTHER",
