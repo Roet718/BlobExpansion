@@ -75,16 +75,18 @@
   },
   {
   "id": "bfeed_cargo_item",
-  "type": "GENERIC",
+  "type": "MAGAZINE",
   "category": "veh_parts",
   "name": { "str": "blob feed hopper" },
   "description": "A storage hopper specifically designed for solid blob feed. Install this near blob engines to create a dedicated fuel supply.",
   "weight": "5 kg",
   "volume": "8 L",
+  "capacity": 4000,
   "price": 8000,
   "material": "flesh",
   "symbol": ")",
-  "color": "red"
+  "color": "red",
+  "ammo_type": "bfeed",
   },
   {
     "abstract": "glowie_alternator",
