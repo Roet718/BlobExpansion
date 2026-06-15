@@ -1,7 +1,8 @@
 [
   {
-    "id": "gloople_tank",
+    "id": "gloople_tank_item",
     "type": "CONTAINER",
+    "category": "container",
     "name": { "str": "gelatinous capsule", "str_pl": "gelatinous capsules" },
     "description": "While the blob is very eager to be fed, it's not as enthusiastic about giving up liquids.  A few alterations are necessary.",
     "weight": "6662 g",
@@ -16,15 +17,15 @@
     "watertight": true
   },
   {
-    "id": "gloople_tank_large",
+    "id": "gloople_tank_large_item",
     "type": "CONTAINER",
     "name": { "str": "gelatinous tank", "str_pl": "gelatinous tanks" },
-    "copy-from": "gloople_tank",
+    "copy-from": "gloople_tank_item",
     "volume": "15 L",
     "contains": "60 L"
   },
   {
-    "id": "gray_tank",
+    "id": "gray_tank_item",
     "type": "CONTAINER",
     "name": { "str": "gray cocoon", "str_pl": "gray cocoons" },
     "description": "While the blob is very eager to be fed, it's not as enthusiastic about giving up liquids.  A few alterations are necessary.",
@@ -40,12 +41,37 @@
     "watertight": true
   },
   {
-    "id": "gray_tank_large",
+    "id": "gray_tank_large_item",
     "type": "CONTAINER",
     "name": { "str": "gray tank", "str_pl": "gray tanks" },
-    "copy-from": "gray_tank",
+    "copy-from": "gray_tank_item",
     "volume": "100 L",
     "contains": "100 L"
+  },
+  {
+    "id": "oozle_tank_item",
+    "type": "CONTAINER",
+    "category": "container",
+    "name": { "str": "oozing capsule", "str_pl": "oozing capsules" },
+    "description": "While the blob is very eager to be fed, it's not as enthusiastic about giving up liquids.  A few alterations are necessary.",
+    "weight": "6662 g",
+    "volume": "10 L",
+    "price": 100,
+    "to_hit": -2,
+    "material": [ "flesh" ],
+    "symbol": ";",
+    "color": "green",
+    "contains": "20 L",
+    "seals": true,
+    "watertight": true
+  },
+  {
+    "id": "oozle_tank_large_item",
+    "type": "CONTAINER",
+    "name": { "str": "oozle tank", "str_pl": "oozle tanks" },
+    "copy-from": "oozle_tank_item",
+    "volume": "80 L",
+    "contains": "80 L"
   },
   {
     "id": "frostie_hull",
@@ -1058,14 +1084,13 @@
     "id": "gloople_tank",
     "type": "vehicle_part",
     "name": { "str": "capsule (10L)" },
-    "item": "gloople",
+    "item": "gloople_tank_item",
     "location": "fuel_source",
     "symbol": "O",
     "broken_symbol": "#",
     "color": "light_green",
     "broken_color": "light_green",
     "durability": 250,
-    "size": "2500 L",
     "damage_modifier": 10,
     "folded_volume": 20,
     "breaks_into": [ { "item": "glooplegrow" } ],
@@ -1085,8 +1110,7 @@
     "type": "vehicle_part",
     "copy-from": "gloople_tank",
     "name": { "str": "gel tank (60L)" },
-    "item": "gloople",
-    "size": "15000 L",
+    "item": "gloople_tank_large_item",
     "folded_volume": 240
   },
   {
@@ -1568,7 +1592,7 @@
     "id": "gray_tank",
     "type": "vehicle_part",
     "name": { "str": "cocoon (30L)" },
-    "item": "gray",
+    "item": "gray_tank_item",
     "location": "fuel_source",
     "symbol": "O",
     "broken_symbol": "#",
@@ -1595,7 +1619,7 @@
     "type": "vehicle_part",
     "copy-from": "gray_tank",
     "name": { "str": "gray tank (100L)" },
-    "item": "gray",
+    "item": "gray_tank_large_item",
     "size": "25000 L",
     "folded_volume": 400
   },
@@ -2338,7 +2362,7 @@
     "id": "oozle_tank",
     "type": "vehicle_part",
     "name": { "str": "pod (20L)" },
-    "item": "oozle",
+    "item": "oozle_tank_item",
     "location": "fuel_source",
     "symbol": "O",
     "broken_symbol": "#",
@@ -2364,8 +2388,8 @@
     "id": "oozle_tank_large",
     "type": "vehicle_part",
     "copy-from": "oozle_tank",
-    "name": { "str": "ooze tank (80L)" },
-    "item": "oozle",
+    "name": { "str": "oozle tank (80L)" },
+    "item": "oozle_tank_large_item",
     "size": "20000 L",
     "folded_volume": 320
   },
