@@ -31,7 +31,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "gloople", 1 ] ] ]
   },
@@ -42,7 +42,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "gloople", 1 ] ] ]
   },
@@ -53,7 +53,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "gray", 1 ] ] ]
   },
@@ -64,7 +64,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "gray", 1 ] ] ]
   },
@@ -75,7 +75,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "oozle", 1 ] ] ]
   },
@@ -86,7 +86,7 @@
     "subcategory": "CSC_OTHER_MATERIALS",
     "skill_used": "cooking",
     "difficulty": 6,
-    "time": "4 h 10 m",
+    "time": "10 m",
     "autolearn": true,
     "components": [ [ [ "oozle", 1 ] ] ]
   },
