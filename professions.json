@@ -3,7 +3,7 @@
     "type": "profession",
     "id": "blobmaster",
     "name": "Blob Master Mad Scientist",
-    "description": "You devoted all your free time to your far-fetched biological theories. People called you a crackpot. But a few weeks before the Cataclysm, something changed, you found life in the sewer water, and everything you hoped for came true. Since then, you've worked day and night exploring the limits of blob technology, forming, re-forming, and breeding blobs with incredible abilities. The Cataclysm has been terrible, yes, but for you it's almost been worth it. this is the debug profession for return of the blob not meant o actually be played with.",
+    "description": "You devoted all your free time to your far-fetched biological theories. People called you a crackpot. But a few weeks before the Cataclysm, something changed, you found life in the sewer water, and everything you hoped for came true. Since then, you've worked day and night exploring the limits of blob technology, forming, re-forming, and breeding blobs with incredible abilities. The Cataclysm has been terrible, yes, but for you it's almost been worth it. this is the debug profession for return of the blob not meant to actually be played with.",
     "points": 16,
     "skills": [ { "level": 6, "name": "cooking" } ],
     "items": {
@@ -25,7 +25,7 @@
           "sparkie",
           "stickie",
           "torchie",
-          "voideater",G
+          "voideater",
           "bframegrow",
           "biter",
           "clutter",
