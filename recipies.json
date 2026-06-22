@@ -132,7 +132,7 @@
     "tools": [ [ [ "gloople", -1 ], [ "oozle", -1 ], [ "gray", -1 ] ] ],
     "components": [
       [
-        [ "bfeed", 1 ]
+        [ "bfeed", 2 ]
       ]
     ]
   },
