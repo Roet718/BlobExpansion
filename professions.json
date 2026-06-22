@@ -53,7 +53,7 @@
     "type": "profession",
     "id": "blobamateur",
     "name": "Blob Amateur Scientist",
-    "description": "You survived the apocalypse, and when you fouind that vial on thatr scientist corpse something within you gave you the idea for a brilliant and mad experiment. Now you have strange and useful material, and a seemingly endless stream of ideas popping into your head.",
+    "description": "You survived the apocalypse, and when you fouind that vial on that scientist corpse something within you gave you the idea for a brilliant and mad experiment. Now you have a strange and useful material, and a seemingly endless stream of ideas popping into your head.",
     "points": 2,
     "skills": [ { "level": 5, "name": "cooking" } ],
     "items": {
