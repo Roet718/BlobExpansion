@@ -2750,7 +2750,7 @@
   "name": { "str": "amorphous core" },
   "item": "queen",
   "location": "center",
-  "fuel_type": "refbfeed",
+  "fuel_type": "bfeedfuel",
   "symbol": "O",
   "broken_symbol": "#",
   "color": "red",
