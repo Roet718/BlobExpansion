@@ -3,7 +3,7 @@
     "type": "profession",
     "id": "blobmaster",
     "name": "Blob Master Mad Scientist",
-    "description": "You devoted all your free time to your far-fetched biological theories. People called you a crackpot. But a few weeks before the Cataclysm, something changed, you found life in the sewer water, and everything you hoped for came true. Since then, you've worked day and night exploring the limits of blob technology, forming, re-forming, and breeding blobs with incredible abilities. The Cataclysm has been terrible, yes, but for you it's almost been worth it.",
+    "description": "You devoted all your free time to your far-fetched biological theories. People called you a crackpot. But a few weeks before the Cataclysm, something changed, you found life in the sewer water, and everything you hoped for came true. Since then, you've worked day and night exploring the limits of blob technology, forming, re-forming, and breeding blobs with incredible abilities. The Cataclysm has been terrible, yes, but for you it's almost been worth it. this is the debug profession for return of the blob not meant o actually be played with.",
     "points": 16,
     "skills": [ { "level": 6, "name": "cooking" } ],
     "items": {
@@ -25,7 +25,7 @@
           "sparkie",
           "stickie",
           "torchie",
-          "voideater",
+          "voideater",G
           "bframegrow",
           "biter",
           "clutter",
@@ -53,7 +53,7 @@
     "type": "profession",
     "id": "blobamateur",
     "name": "Blob Amateur Scientist",
-    "description": "You devoted all your free time to your far-fetched biological theories. People called you a crackpot. But a few days before the Cataclysm, something changed, you found life in the sewer water, and everything you hoped for came true. You've created a cooperative new lifeform that promises incredible abilities. The Cataclysm has been terrible, yes, but this might almost be worth it.",
+    "description": "You survived the apocalypse, and when you fouind that vial on thatr scientist corpse something within you gave you the idea for a brilliant and mad experiment. Now you have strange and useful material, and a seemingly endless stream of ideas popping into your head.",
     "points": 2,
     "skills": [ { "level": 5, "name": "cooking" } ],
     "items": {
